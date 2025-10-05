@@ -1,0 +1,4 @@
+1) deep researcher agent that follows this workflow: searcher->analyst->writer, i also provided it tools for duckduckgo web search, used agno framework instead of langgraph
+2) outreach agent, writes custom outreach eamils based on the profiles of applier and employee
+3) rag agent using langchain, i have used this in multiple projects, eg. a standard pdf qna chatbot, in my internship at Mastek i have created a full stack(react frontend flask backend) rag chatbot that can generate sql queries by looking at the tables inside an excel file.
+4) html coding agent that also follow a similar workflow as the one above to create production grade html systems

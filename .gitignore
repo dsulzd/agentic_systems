@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+.dist-info/
+build/
+dist/
+*.manifest
+*.spec
+
+# Virtual env
+venv/
+.env
+.venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Profiles or local data
+profiles/*.txt
+
+# Node
+node_modules/
+
+# Secrets
+.env*
+
+# Allow readme.md and project files
